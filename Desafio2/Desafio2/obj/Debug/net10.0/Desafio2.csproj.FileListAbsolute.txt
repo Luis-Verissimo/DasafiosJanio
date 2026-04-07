@@ -1,0 +1,15 @@
+E:\Desenvolvimento\DasafiosJanio\Desafio2\Desafio2\bin\Debug\net10.0\Desafio2.exe
+E:\Desenvolvimento\DasafiosJanio\Desafio2\Desafio2\bin\Debug\net10.0\Desafio2.deps.json
+E:\Desenvolvimento\DasafiosJanio\Desafio2\Desafio2\bin\Debug\net10.0\Desafio2.runtimeconfig.json
+E:\Desenvolvimento\DasafiosJanio\Desafio2\Desafio2\bin\Debug\net10.0\Desafio2.dll
+E:\Desenvolvimento\DasafiosJanio\Desafio2\Desafio2\bin\Debug\net10.0\Desafio2.pdb
+E:\Desenvolvimento\DasafiosJanio\Desafio2\Desafio2\obj\Debug\net10.0\Desafio2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desenvolvimento\DasafiosJanio\Desafio2\Desafio2\obj\Debug\net10.0\Desafio2.AssemblyInfoInputs.cache
+E:\Desenvolvimento\DasafiosJanio\Desafio2\Desafio2\obj\Debug\net10.0\Desafio2.AssemblyInfo.cs
+E:\Desenvolvimento\DasafiosJanio\Desafio2\Desafio2\obj\Debug\net10.0\Desafio2.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento\DasafiosJanio\Desafio2\Desafio2\obj\Debug\net10.0\Desafio2.sourcelink.json
+E:\Desenvolvimento\DasafiosJanio\Desafio2\Desafio2\obj\Debug\net10.0\Desafio2.dll
+E:\Desenvolvimento\DasafiosJanio\Desafio2\Desafio2\obj\Debug\net10.0\refint\Desafio2.dll
+E:\Desenvolvimento\DasafiosJanio\Desafio2\Desafio2\obj\Debug\net10.0\Desafio2.pdb
+E:\Desenvolvimento\DasafiosJanio\Desafio2\Desafio2\obj\Debug\net10.0\Desafio2.genruntimeconfig.cache
+E:\Desenvolvimento\DasafiosJanio\Desafio2\Desafio2\obj\Debug\net10.0\ref\Desafio2.dll
